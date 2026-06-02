@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "survival_kingdoms.aternos.me:47783",
+    "port": 47783,
     "version": "",
     "try-creative": false
   },
