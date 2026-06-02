@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survival_kingdoms.aternos.me:47783",
+    "ip": "survival_kingdoms.aternos.me",
     "port": 47783,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
